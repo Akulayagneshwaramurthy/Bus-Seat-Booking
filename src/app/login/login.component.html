@@ -1,0 +1,23 @@
+<app-navbar></app-navbar>
+<div class="container">
+    <div class="img">
+         <img [src]="url2" alt=""  height="600px" 
+        width="700px"> 
+    </div>
+    <div class="login">
+        <h1>Login</h1>
+    <div class="form">
+        <label for="pinnumber">Email : </label>
+    <div class="in">
+        <input type="text" name="pinnumber" [(ngModel)]="loginobj.username" placeholder="Enter  your pin number">
+    </div>
+    </div>
+    <div class="form">
+        <label for="password">Password : </label>
+    <div class="in">
+        <input type="text" name="password" [(ngModel)]="loginobj.password" placeholder="Enter your password">
+    </div>
+    </div>
+    <button (click)="onlogin()">Login</button>
+    </div>
+</div>

@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: serif;
+}
+.container{
+    border: 3px solid black;
+    border-radius: 10px;
+    width: 750px;
+    height: 400px;
+    margin-top: 100px;
+    margin-left: 450px;
+}
+.dic{
+    display: flex;
+}
+.busap{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 30px;
+    gap:100px ;
+}
+.pin{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.seatnumber{
+    border: 3px solid black;
+    padding-top: 10px;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-left: 80px;
+    text-align: center;
+    width: 130px;
+    height: 100px;
+}
+.yearcourse{
+    display: flex;
+    gap: 200px;
+    margin: 30px;
+}
+.branchseaction{
+    display: flex;
+    gap: 200px;
+    margin: 30px;
+}
+.form{
+    display: flex;
+    gap: 200px;
+    margin: 30px;
+}

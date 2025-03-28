@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.col{
+    display: flex;
+}
+.row{
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 60px 0px 0px 130px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    margin: 30px;
+    height: 200px;
+    width: 450px;
+}
+.row:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+  }
+p{
+    margin-left: 50px;
+    margin-top: 10px;
+    font-size: 20px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
