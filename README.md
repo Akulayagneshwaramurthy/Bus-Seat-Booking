@@ -31,19 +31,19 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 A Bus Seat Booking System built with Angular that allows users to log in, search for bus routes, and book seats seamlessly.
 
 🖼️ Screenshots
-🔐 Login Page
+🔐 ![Login Page](https://github.com/Akulayagneshwaramurthy/Bus-Seat-Booking/blob/master/Image-1.png?raw=true)
 Users can enter their email and password to access the platform.
 
 Simple and clean UI with an image of a bus for visual appeal.
 
-🏠 Home Page
+🏠 ![Home Page](https://github.com/Akulayagneshwaramurthy/Bus-Seat-Booking/blob/master/Image-2.png?raw=true)
 Displays available bus routes for booking.
 
 Search functionality to find specific bus routes.
 
 "Your Booked Seat" button for checking booked seats.
 
-❌ No Seat Booked Page
+❌ ![No Seat Booked Page](https://github.com/Akulayagneshwaramurthy/Bus-Seat-Booking/blob/master/Image-3.png?raw=true)
 If no seats are booked, users will see a "No Seat Booked" message.
 
 🔧 Features
@@ -65,9 +65,9 @@ Booking Confirmation: A button to confirm seat selection and book seats.
 
 Screenshots
 
-Seat Selection Page
+![Seat Selection Page](https://github.com/Akulayagneshwaramurthy/Bus-Seat-Booking/blob/master/Image-4.png?raw=true)
 
-Booking Confirmation
+![Booking Confirmation](https://github.com/Akulayagneshwaramurthy/Bus-Seat-Booking/blob/master/Image-5.png?raw=true)
 
 Features
 
@@ -94,3 +94,6 @@ Successfully booked seats will be shown with a confirmation message.
 
 Screenshots
 
+![Booking Confirmation](https://github.com/Akulayagneshwaramurthy/Bus-Seat-Booking/blob/master/Image-6.png?raw=true)
+
+![Booking Confirmation](https://github.com/Akulayagneshwaramurthy/Bus-Seat-Booking/blob/master/Image-7.png?raw=true)
