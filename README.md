@@ -97,3 +97,25 @@ Screenshots
 ![Booking Confirmation](https://github.com/Akulayagneshwaramurthy/Bus-Seat-Booking/blob/master/Image-6.png?raw=true)
 
 ![Booking Confirmation](https://github.com/Akulayagneshwaramurthy/Bus-Seat-Booking/blob/master/Image-7.png?raw=true)
+
+🚀 Features
+Seat Selection: Users can choose available seats.
+
+Real-time Status Update: Displays booked, available, and selected seats.
+
+Booking Confirmation: Users enter their details and confirm the booking.
+
+Booking Details Page: Displays booked seat details.
+
+📷 Screenshots
+![Booking Confirmation](https://github.com/Akulayagneshwaramurthy/Bus-Seat-Booking/blob/master/Image-8.png?raw=true)
+Users can see available, selected, and booked seats.
+
+Enter details like Name, Date, Time, Email and click Submit.
+
+Booking Confirmation
+Shows a confirmation message upon successful booking.
+
+
+Booked Seat Details
+Displays booked seat information after completion.
